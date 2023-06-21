@@ -6,6 +6,7 @@ so here is the final project User Interface.
 
 **View 1:**
 This is the first view of sudoku game's UI .
+
 ![sudoku 1](https://github.com/ARYAN-MISHRA1/Aryan_sudoku/assets/137288561/88978236-f177-4a76-a30e-f5ae5f2e0923)
 
 
