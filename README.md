@@ -1,6 +1,6 @@
 # Aryan_sudoku
 
-Hey, My name is Aryan Mishra. I am full stack web developper tranie at Acciojob.
+Hey, My name is Aryan Mishra. I am full stack web developper trainee at Acciojob.
 i have been given a project to complete by Acciojob Name is SUDOKU-DSA game.
 
 **ABOUT PROJECT**:
